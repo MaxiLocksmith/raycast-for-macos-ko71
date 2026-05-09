@@ -1,4 +1,4 @@
-
+Enhance Raycast for macOS with Raycast for macOS top Module: network-speed & VM-management, the #1 module. Includes network-speed and VM-management for a smoother macOS experience.
 
 
 
